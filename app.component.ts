@@ -10,7 +10,7 @@ export class AppComponent {
   public name ="saishashank"
   public topic =" data binding"
   public value =""
-  public image ="/assets/Screenshot 2024-03-25 114157.jpg"
+  public image ="https://www.bacancytechnology.com/blog/wp-content/uploads/2016/04/data-binding.jpg"
   onclick(){
    console.log("Thank you submit")
    
